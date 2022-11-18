@@ -75,9 +75,11 @@ This project shortens a repository start setup, considering:
 ```
 .
 ├── .git/                       Version control system folder
+├── .env.example                Environment variables definition
 ├── .gitignore                  VCS ignored files manifest
 ├── CHANGELOG.md                Release notes description
 ├── LICENSE                     License file
+├── Makefile                    Development management facilities
 └── README.md                   Repo readme document
 ```
 
