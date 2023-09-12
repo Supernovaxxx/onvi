@@ -1,0 +1,4 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:Supernovaxxx/ovni-rest-api.git
+	branch = dockerizing
